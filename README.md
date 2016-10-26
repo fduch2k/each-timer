@@ -1,11 +1,9 @@
 # each-timer
 
 ![Build Status](https://img.shields.io/travis/fduch2k/each-timer.svg)
-![Coverage](https://img.shields.io/coveralls/fduch2k/each-timer.svg)
 ![Downloads](https://img.shields.io/npm/dt/each-timer.svg)
 ![npm version](https://img.shields.io/npm/v/each-timer.svg)
 ![dependencies](https://img.shields.io/david/fduch2k/each-timer.svg)
-![dev dependencies](https://img.shields.io/david/dev/fduch2k/each-timer.svg)
 ![License](https://img.shields.io/npm/l/each-timer.svg)
 
 Elegant timer interface
