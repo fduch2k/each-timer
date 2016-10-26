@@ -1,0 +1,21 @@
+{
+  "name": "each-timer",
+  "version": "0.1.0",
+  "description": "Elegant timer interface",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "author": "fduch2k",
+  "repository": "fduch2k/each-timer",
+  "scripts": {
+    "coveralls": "cat coverage/lcov.info | coveralls",
+    "test": "istanbul cover _mocha"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "coveralls": "*",
+    "istanbul": "*",
+    "jsdoc-to-markdown": "^2.0.1",
+    "mocha": "*",
+    "sinon": "*"
+  }
+}
