@@ -4,7 +4,7 @@
   "description": "Elegant timer interface",
   "license": "MIT",
   "main": "lib/index.js",
-  "author": "fduch2k",
+  "author": "Alexander Hramov",
   "repository": "fduch2k/each-timer",
   "scripts": {
     "coveralls": "cat coverage/lcov.info | coveralls",
